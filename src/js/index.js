@@ -7,7 +7,11 @@ import "../styles/index.css";
 
 //import your own components
 import Home from "./component/home.jsx";
-
+import Card from "./component/Card.jsx";
+import NavBar from "./component/Navbar.jsx";
 //render your react application
 ReactDOM.createRoot(document.getElementById('app')).render(<Home/>);
 
+//ReactDOM.createRoot(document.getElementById('app')).render(<NavBar/>);
+
+//ReactDOM.createRoot(document.getElementById('app')).render(<Card/>)

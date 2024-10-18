@@ -10,3 +10,43 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    background-color: rgb(32, 33, 33);
+}
+.jumbotron{
+    background-color: darkgray;
+    background-image: url("https://cdn-dlmhn.nitrocdn.com/IzGpyTnSghBpqIFigtbtSTczpyfzmXWH/assets/images/optimized/rev-8cdea44/www.traetupoliza.com/wp-content/uploads/elementor/thumbs/g-qog1xdq7i4opb9ynnhjoi5icxsntq4yxek4g4mm3pa.jpg");
+    background-size: cover;
+    color: darkorange;
+    height: 300px;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 5px;
+    padding-right: 5px;
+   
+    display: flex;
+    
+    
+}
+.jumbotron a{
+    align-self: flex-end;
+    
+    
+}
+
+.jumbotron h1{
+    font-size: 45px;
+    padding-left: 5px;
+
+}
+
+.card {
+    margin-top: 70px;
+    background-color: grey;
+    border: 1px;
+    border-color: orange;
+}
+
+.navbar{
+    margin-top: 0px;
+}
