@@ -17,7 +17,7 @@ export const cartas = [
     },
     {
         id: "2",
-        title: "CB 250",
+        title: "Honda CB 250",
         text: "Estilo naked, motor 2 cilindros paralelos 21hp",
         img: "https://motos.espirituracer.com/archivos/2019/08/honda-cb-250-3-1200x675.jpg"
     } ,
